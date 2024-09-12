@@ -1,0 +1,101 @@
+id,country,device,customerId,purchaseDate
+1,Greece,Voltsillam,1,2022-09-14
+2,Philippines,Fixflex,2,2023-04-06
+3,France,Mat Lam Tam,3,2021-09-16
+4,Philippines,Daltfresh,4,2021-03-15
+5,Tokelau,Treeflex,5,2022-03-05
+6,Philippines,Stronghold,6,2022-08-28
+7,China,Job,7,2023-05-09
+8,Indonesia,Opela,8,2022-07-01
+9,Indonesia,Fintone,9,2022-08-11
+10,Poland,Otcom,10,2023-05-16
+11,Sweden,Flowdesk,11,2021-07-02
+12,China,Pannier,12,2023-11-10
+13,France,Duobam,13,2022-12-19
+14,Russia,Domainer,14,2022-10-05
+15,Macedonia,Fixflex,15,2022-10-04
+16,China,Bytecard,16,2021-06-25
+17,South Africa,Temp,17,2021-06-22
+18,Slovenia,Bitwolf,18,2022-02-28
+19,Chile,Alphazap,19,2022-09-17
+20,China,Transcof,20,2022-08-13
+21,Peru,Subin,21,2021-04-28
+22,Portugal,Sub-Ex,22,2022-06-06
+23,Russia,Solarbreeze,23,2022-02-04
+24,France,Wrapsafe,24,2022-04-26
+25,Bulgaria,Fixflex,25,2023-03-26
+26,Syria,Trippledex,26,2021-12-04
+27,United States,Vagram,27,2023-03-19
+28,Indonesia,Bytecard,28,2021-08-28
+29,Sweden,Treeflex,29,2022-08-10
+30,France,Temp,30,2021-02-12
+31,Vietnam,Zontrax,31,2023-06-05
+32,Qatar,Keylex,32,2023-09-09
+33,Portugal,Kanlam,33,2023-09-12
+34,Azerbaijan,Ventosanzap,34,2021-08-28
+35,Germany,Namfix,35,2022-06-24
+36,Czech Republic,Konklux,36,2023-07-26
+37,Russia,Cardify,37,2021-04-11
+38,Indonesia,Fix San,38,2021-02-17
+39,Hungary,Konklab,39,2023-07-28
+40,Argentina,Cardify,40,2021-11-05
+41,Costa Rica,Stringtough,41,2021-06-22
+42,Ukraine,Mat Lam Tam,42,2023-03-26
+43,China,Gembucket,43,2022-08-11
+44,Philippines,Tempsoft,44,2021-05-27
+45,France,Gembucket,45,2021-12-11
+46,Peru,Matsoft,46,2021-02-21
+47,China,Prodder,47,2022-02-01
+48,China,Konklux,48,2022-05-22
+49,France,Span,49,2023-02-21
+50,North Korea,Ventosanzap,50,2021-04-08
+51,Indonesia,Quo Lux,51,2022-07-26
+52,Russia,Cardify,52,2022-10-03
+53,Sweden,Stim,53,2021-06-21
+54,Cameroon,Regrant,54,2021-04-26
+55,Croatia,Job,55,2023-07-12
+56,Indonesia,Cookley,56,2023-08-31
+57,Portugal,Fintone,57,2023-02-11
+58,Philippines,Veribet,58,2021-12-27
+59,Vietnam,Alphazap,59,2021-01-14
+60,Peru,Mat Lam Tam,60,2021-04-07
+61,China,Solarbreeze,61,2021-10-21
+62,Kenya,Latlux,62,2021-11-23
+63,Guinea,Hatity,63,2021-02-20
+64,Japan,Sonsing,64,2022-04-07
+65,Serbia,Mat Lam Tam,65,2022-05-10
+66,Gambia,Bigtax,66,2021-09-21
+67,Japan,Veribet,67,2022-10-17
+68,Canada,Hatity,68,2023-01-05
+69,Indonesia,Stronghold,69,2022-09-02
+70,China,Solarbreeze,70,2021-11-03
+71,Nigeria,Quo Lux,71,2021-10-27
+72,France,Otcom,72,2021-09-30
+73,Czech Republic,Otcom,73,2022-06-25
+74,Mongolia,Otcom,74,2022-06-15
+75,Indonesia,Konklab,75,2021-02-03
+76,China,Stim,76,2023-02-11
+77,Ireland,Pannier,77,2021-05-10
+78,Pakistan,Duobam,78,2023-10-25
+79,Indonesia,Zoolab,79,2021-10-03
+80,Myanmar,Sonsing,80,2023-10-20
+81,Portugal,Fix San,81,2022-03-04
+82,Poland,Lotstring,82,2021-09-25
+83,Bulgaria,Domainer,83,2023-09-11
+84,Greece,Zontrax,84,2021-07-09
+85,Indonesia,Tempsoft,85,2021-08-17
+86,China,Mat Lam Tam,86,2022-05-09
+87,Russia,Tempsoft,87,2021-04-11
+88,Indonesia,Cardify,88,2023-10-11
+89,China,Sonsing,89,2022-05-15
+90,Kenya,Lotstring,90,2023-04-21
+91,France,Solarbreeze,91,2021-01-03
+92,Indonesia,Subin,92,2023-10-04
+93,France,Stim,93,2023-07-16
+94,South Sudan,Vagram,94,2023-10-22
+95,Myanmar,Quo Lux,95,2023-07-10
+96,China,Latlux,96,2021-08-01
+97,China,Zoolab,97,2021-02-28
+98,Pakistan,Redhold,98,2023-06-13
+99,Russia,Redhold,99,2021-04-16
+100,Brazil,Bamity,100,2023-05-10
